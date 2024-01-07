@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.microservices.currencyexchangeservice.CurrencyExchangeServiceApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 18.612 s - in com.example.microservices.currencyexchangeservice.CurrencyExchangeServiceApplicationTests
